@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "299130825098",
+    "firebase_url": "https://asturiasenruta.firebaseio.com",
+    "project_id": "asturiasenruta",
+    "storage_bucket": "asturiasenruta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299130825098:android:8a607bbbe39d3122aac073",
+        "android_client_info": {
+          "package_name": "com.proyecto.asturiasenruta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299130825098-6t57iksgqji5i5bnuunrf8r9ntkj59kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyecto.asturiasenruta",
+            "certificate_hash": "882459d01a90e51bfd7689ecfbda8fd88c60c07e"
+          }
+        },
+        {
+          "client_id": "299130825098-tkckslr44tnmdoc70dttcfglvo2m4tpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaf0iOx5TYuwMId6uEQuE4T4NV-Py-8vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299130825098-tkckslr44tnmdoc70dttcfglvo2m4tpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

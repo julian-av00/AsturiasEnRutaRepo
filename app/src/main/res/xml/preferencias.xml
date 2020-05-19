@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Tema">
+        <SwitchPreference
+            android:id="@+id/switchOscuro"
+            android:icon="@mipmap/temaoscuro"
+            android:key="modoOscuro"
+            android:summary="Cambia el tema de tu aplicacion"
+            android:title="Modo Oscuro" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Info.">
+        <ListPreference
+            android:key="acercade"
+            android:title="Acerca de..."
+            android:summary="Información sobre el desarrollador"
+            android:icon="@mipmap/info"/>
+    </PreferenceCategory>
+</PreferenceScreen>
